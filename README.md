@@ -5,13 +5,9 @@
 
 - 🔭 I’m currently working on [PromptChat](https://github.com/nipun22325/ai-agent-platform)
 
-- 🌱 I’m currently learning **Golang and Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **DSA, Operating System, Frontend Development**
-
-- 📫 How to reach me **nipun22325@iiitd.ac.in**
-
-- ⚡ Fun fact **I am a film nerd.**
+- 📫 How to reach me **nipunkothari04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
