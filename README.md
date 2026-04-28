@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about systems design and cloud architecture.\
 ✍️ &nbsp;In my free time, I log films on Letterboxd.\
 💻 &nbsp;Check out my **[terminal-based portfolio](https://superb-striker.github.io/portfolio/)** - matrix themed, obviously.\
-📄 &nbsp;Have a look at my **[Résumé](https://drive.google.com/file/d/18eLV7hBxVv7RBVriswVr_dYFEZH2W8h4/view)**.
+📄 &nbsp;Have a look at my **[Résumé](https://drive.google.com/file/d/1lVKeRMBgPIuSAffF6uNnBQ3pOarMTq_a/view?usp=sharing)**.
 
 <img alt="Matrix Rain" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo5MGNmZHE3cHM5aXVxMXQzdmozZnFnbzQzNGJsbnhkcDAydTl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif" align="right" width="250"/>
 
