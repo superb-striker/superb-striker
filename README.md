@@ -50,9 +50,27 @@
 </p>
 
 <h3 align="left">🤝🏻 Find me at:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nipun-kothari-10250a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun-kothari-10250a258" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/exquisite27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="exquisite27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/exquisite27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="exquisite27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nipun23hsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nipun23hsa" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/nipun-kothari-10250a258" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/exquisite27" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.leetcode.com/exquisite27" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/nipun23hsa" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
